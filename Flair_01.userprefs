@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C92425BF-0DD4-47EE-A89B-02FFC59C2A9C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Flair__01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Flair_01/Login.cs">
+    <Files>
+      <File FileName="Flair_01/HomePage.cs" Line="57" Column="27" />
+      <File FileName="Flair_01/Program.cs" Line="15" Column="22" />
+      <File FileName="Flair_01/Login.cs" Line="2" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
